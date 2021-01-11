@@ -1,0 +1,48 @@
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 40px;
+  text-align: center;
+  font-size: 16px;
+  margin: 8px 8px;
+  transition: 0.3s;
+}
+.btn:hover {
+  background-color: #3e8e41;
+  color: white;
+}
+.value{
+	background:#d9ff03;
+	color:#2405f0;
+}
+.la{
+	margin-left:900px;
+}
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: #eeeeee;
+  height:3970px;
+  margin-left:20px;
+  margin-right:20px;
+  border-top: 1px solid black;
+}
+.column {
+  width: 95%;
+  padding: 10px;
+  height: 100px; /* Should be removed. Only for demonstration */
+  margin-left:20px;
+  margin-right:40px;
+}
+hr{
+opacity:0.5
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: black;
+  margin-top: 20px;
+  color:#ddd;
+  height:auto;
+}
